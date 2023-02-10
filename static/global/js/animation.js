@@ -1,0 +1,1 @@
+for(let i=0;i<document.querySelectorAll('.doras_logo').length;i++){var animation=bodymovin.loadAnimation({container:document.querySelectorAll('.doras_logo')[i],renderer:'svg',loop:true,autoplay:true,path:'/static/global/media/animation/data.json'})}
